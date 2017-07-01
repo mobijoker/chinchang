@@ -5,7 +5,7 @@
   "author": "Kushagra Gour <chinchang457@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chinchang/chinchang.github.com.git"
+    "url": "git://github.com/mobijoker/chinchang.git"
   },
   "devDependencies": {
     "gulp": "~3.8.10",
