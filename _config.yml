@@ -7,7 +7,7 @@ baseurl: "/chinchang"
 author:
   name: Kushagra Gour
 title: Kushagra Gour- Creativity freak!
-permalink: /blog/:year/:month/:title/
+permalink: /chinchang/blog/:year/:month/:title/
 highlighter: rouge
 
 lab_projects:
