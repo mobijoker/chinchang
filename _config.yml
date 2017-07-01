@@ -62,3 +62,5 @@ games:
   link: "fun-with-force"
 - name: "Chef of War"
   link: "chef-of-war"
+
+theme: jekyll-theme-cayman
