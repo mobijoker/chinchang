@@ -2,7 +2,8 @@ safe: true
 lsi: false
 
 root_url: https://mobijoker.github.io/chinchang
-baseurl:"/chinchang"
+baseurl: "/chinchang"
+
 author:
   name: Kushagra Gour
 title: Kushagra Gour- Creativity freak!
